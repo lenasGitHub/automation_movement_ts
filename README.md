@@ -1,8 +1,8 @@
 # How To Run The App
 
-### `sudo git clone https://github.com/lenasGitHub/automation_movement.git`
+### `sudo git clone https://github.com/lenasGitHub/automation_movement_ts.git`
 
-### `cd automation_movement`
+### `cd automation_movement_ts`
 
 ### `sudo npm install`
 
